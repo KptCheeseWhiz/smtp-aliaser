@@ -6,4 +6,4 @@ This application is a SMTP proxy that forwards the email to different servers wi
 
 ## But why?
 
-Because my email setup is effed-up and it allow me to reply to emails received by an alias, using that alias.
+Because my email setup is effed-up and it allows me to reply to emails received by an alias without using the email behind it.
